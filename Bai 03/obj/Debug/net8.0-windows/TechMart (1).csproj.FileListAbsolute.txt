@@ -1,0 +1,15 @@
+C:\Bai Kiem Tra 1\Bai 03\bin\Debug\net8.0-windows\TechMart (1).exe
+C:\Bai Kiem Tra 1\Bai 03\bin\Debug\net8.0-windows\TechMart (1).deps.json
+C:\Bai Kiem Tra 1\Bai 03\bin\Debug\net8.0-windows\TechMart (1).runtimeconfig.json
+C:\Bai Kiem Tra 1\Bai 03\bin\Debug\net8.0-windows\TechMart (1).dll
+C:\Bai Kiem Tra 1\Bai 03\bin\Debug\net8.0-windows\TechMart (1).pdb
+C:\Bai Kiem Tra 1\Bai 03\obj\Debug\net8.0-windows\TechMart (1).GeneratedMSBuildEditorConfig.editorconfig
+C:\Bai Kiem Tra 1\Bai 03\obj\Debug\net8.0-windows\TechMart (1).AssemblyInfoInputs.cache
+C:\Bai Kiem Tra 1\Bai 03\obj\Debug\net8.0-windows\TechMart (1).AssemblyInfo.cs
+C:\Bai Kiem Tra 1\Bai 03\obj\Debug\net8.0-windows\TechMart (1).csproj.CoreCompileInputs.cache
+C:\Bai Kiem Tra 1\Bai 03\obj\Debug\net8.0-windows\TechMart (1).dll
+C:\Bai Kiem Tra 1\Bai 03\obj\Debug\net8.0-windows\refint\TechMart (1).dll
+C:\Bai Kiem Tra 1\Bai 03\obj\Debug\net8.0-windows\TechMart (1).pdb
+C:\Bai Kiem Tra 1\Bai 03\obj\Debug\net8.0-windows\TechMart (1).genruntimeconfig.cache
+C:\Bai Kiem Tra 1\Bai 03\obj\Debug\net8.0-windows\ref\TechMart (1).dll
+C:\Bai Kiem Tra 1\Bai 03\obj\Debug\net8.0-windows\TechMart.B606B210.Up2Date

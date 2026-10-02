@@ -1,0 +1,4 @@
+C:\Bai Kiem Tra 1\Bai 03\obj\Debug\net8.0\AutoSpeed (1).GeneratedMSBuildEditorConfig.editorconfig
+C:\Bai Kiem Tra 1\Bai 03\obj\Debug\net8.0\AutoSpeed (1).AssemblyInfoInputs.cache
+C:\Bai Kiem Tra 1\Bai 03\obj\Debug\net8.0\AutoSpeed (1).AssemblyInfo.cs
+C:\Bai Kiem Tra 1\Bai 03\obj\Debug\net8.0\AutoSpeed (1).csproj.CoreCompileInputs.cache
