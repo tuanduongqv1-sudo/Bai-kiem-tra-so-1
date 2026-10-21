@@ -1,0 +1,16 @@
+D:\Lap_trinh_.NET\Bai_tap_4.6_4.7_4.8\Bai47_MDI\bin\Debug\net8.0-windows\Bai47_MDI.exe
+D:\Lap_trinh_.NET\Bai_tap_4.6_4.7_4.8\Bai47_MDI\bin\Debug\net8.0-windows\Bai47_MDI.deps.json
+D:\Lap_trinh_.NET\Bai_tap_4.6_4.7_4.8\Bai47_MDI\bin\Debug\net8.0-windows\Bai47_MDI.runtimeconfig.json
+D:\Lap_trinh_.NET\Bai_tap_4.6_4.7_4.8\Bai47_MDI\bin\Debug\net8.0-windows\Bai47_MDI.dll
+D:\Lap_trinh_.NET\Bai_tap_4.6_4.7_4.8\Bai47_MDI\bin\Debug\net8.0-windows\Bai47_MDI.pdb
+D:\Lap_trinh_.NET\Bai_tap_4.6_4.7_4.8\Bai47_MDI\obj\Debug\net8.0-windows\Bai47_MDI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lap_trinh_.NET\Bai_tap_4.6_4.7_4.8\Bai47_MDI\obj\Debug\net8.0-windows\Bai47_MDI.AssemblyInfoInputs.cache
+D:\Lap_trinh_.NET\Bai_tap_4.6_4.7_4.8\Bai47_MDI\obj\Debug\net8.0-windows\Bai47_MDI.AssemblyInfo.cs
+D:\Lap_trinh_.NET\Bai_tap_4.6_4.7_4.8\Bai47_MDI\obj\Debug\net8.0-windows\Bai47_MDI.csproj.CoreCompileInputs.cache
+D:\Lap_trinh_.NET\Bai_tap_4.6_4.7_4.8\Bai47_MDI\obj\Debug\net8.0-windows\Bai47_MDI.sourcelink.json
+D:\Lap_trinh_.NET\Bai_tap_4.6_4.7_4.8\Bai47_MDI\obj\Debug\net8.0-windows\Bai47_MDI.dll
+D:\Lap_trinh_.NET\Bai_tap_4.6_4.7_4.8\Bai47_MDI\obj\Debug\net8.0-windows\refint\Bai47_MDI.dll
+D:\Lap_trinh_.NET\Bai_tap_4.6_4.7_4.8\Bai47_MDI\obj\Debug\net8.0-windows\Bai47_MDI.pdb
+D:\Lap_trinh_.NET\Bai_tap_4.6_4.7_4.8\Bai47_MDI\obj\Debug\net8.0-windows\Bai47_MDI.genruntimeconfig.cache
+D:\Lap_trinh_.NET\Bai_tap_4.6_4.7_4.8\Bai47_MDI\obj\Debug\net8.0-windows\ref\Bai47_MDI.dll
+D:\Lap_trinh_.NET\Bai_tap_4.6_4.7_4.8\Bai47_MDI\obj\Debug\net8.0-windows\Bai47_MDI.csproj.Up2Date

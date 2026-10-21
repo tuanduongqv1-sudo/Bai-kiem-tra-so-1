@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Lap_trinh_.NET\\Bai_tap_4.6_4.7_4.8\\Bai47_MDI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7740718-DB7F-ACD1-3DC9-20EF2C0670F6}|Bai47_MDI.csproj|d:\\lap_trinh_.net\\bai_tap_4.6_4.7_4.8\\bai47_mdi\\bai47_mdi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B7740718-DB7F-ACD1-3DC9-20EF2C0670F6}|Bai47_MDI.csproj|solutionrelative:bai47_mdi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bai47_MDI.csproj",
+              "DocumentMoniker": "D:\\Lap_trinh_.NET\\Bai_tap_4.6_4.7_4.8\\Bai47_MDI\\Bai47_MDI.csproj",
+              "RelativeDocumentMoniker": "Bai47_MDI.csproj",
+              "ToolTip": "D:\\Lap_trinh_.NET\\Bai_tap_4.6_4.7_4.8\\Bai47_MDI\\Bai47_MDI.csproj",
+              "RelativeToolTip": "Bai47_MDI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-21T00:55:09.707Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

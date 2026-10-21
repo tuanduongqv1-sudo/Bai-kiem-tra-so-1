@@ -1,0 +1,16 @@
+D:\Lap_trinh_.NET\Bai_tap_4.6_4.7_4.8\Bai48_AsyncProgressBar\bin\Debug\net8.0-windows\Bai48_AsyncProgressBar.exe
+D:\Lap_trinh_.NET\Bai_tap_4.6_4.7_4.8\Bai48_AsyncProgressBar\bin\Debug\net8.0-windows\Bai48_AsyncProgressBar.deps.json
+D:\Lap_trinh_.NET\Bai_tap_4.6_4.7_4.8\Bai48_AsyncProgressBar\bin\Debug\net8.0-windows\Bai48_AsyncProgressBar.runtimeconfig.json
+D:\Lap_trinh_.NET\Bai_tap_4.6_4.7_4.8\Bai48_AsyncProgressBar\bin\Debug\net8.0-windows\Bai48_AsyncProgressBar.dll
+D:\Lap_trinh_.NET\Bai_tap_4.6_4.7_4.8\Bai48_AsyncProgressBar\bin\Debug\net8.0-windows\Bai48_AsyncProgressBar.pdb
+D:\Lap_trinh_.NET\Bai_tap_4.6_4.7_4.8\Bai48_AsyncProgressBar\obj\Debug\net8.0-windows\Bai48_AsyncProgressBar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lap_trinh_.NET\Bai_tap_4.6_4.7_4.8\Bai48_AsyncProgressBar\obj\Debug\net8.0-windows\Bai48_AsyncProgressBar.AssemblyInfoInputs.cache
+D:\Lap_trinh_.NET\Bai_tap_4.6_4.7_4.8\Bai48_AsyncProgressBar\obj\Debug\net8.0-windows\Bai48_AsyncProgressBar.AssemblyInfo.cs
+D:\Lap_trinh_.NET\Bai_tap_4.6_4.7_4.8\Bai48_AsyncProgressBar\obj\Debug\net8.0-windows\Bai48_AsyncProgressBar.csproj.CoreCompileInputs.cache
+D:\Lap_trinh_.NET\Bai_tap_4.6_4.7_4.8\Bai48_AsyncProgressBar\obj\Debug\net8.0-windows\Bai48_AsyncProgressBar.sourcelink.json
+D:\Lap_trinh_.NET\Bai_tap_4.6_4.7_4.8\Bai48_AsyncProgressBar\obj\Debug\net8.0-windows\Bai48_AsyncProgressBar.dll
+D:\Lap_trinh_.NET\Bai_tap_4.6_4.7_4.8\Bai48_AsyncProgressBar\obj\Debug\net8.0-windows\refint\Bai48_AsyncProgressBar.dll
+D:\Lap_trinh_.NET\Bai_tap_4.6_4.7_4.8\Bai48_AsyncProgressBar\obj\Debug\net8.0-windows\Bai48_AsyncProgressBar.pdb
+D:\Lap_trinh_.NET\Bai_tap_4.6_4.7_4.8\Bai48_AsyncProgressBar\obj\Debug\net8.0-windows\Bai48_AsyncProgressBar.genruntimeconfig.cache
+D:\Lap_trinh_.NET\Bai_tap_4.6_4.7_4.8\Bai48_AsyncProgressBar\obj\Debug\net8.0-windows\ref\Bai48_AsyncProgressBar.dll
+D:\Lap_trinh_.NET\Bai_tap_4.6_4.7_4.8\Bai48_AsyncProgressBar\obj\Debug\net8.0-windows\Bai48_As.A3C4FF33.Up2Date
