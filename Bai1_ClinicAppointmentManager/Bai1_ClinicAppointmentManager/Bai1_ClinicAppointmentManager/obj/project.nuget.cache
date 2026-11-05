@@ -1,0 +1,50 @@
+{
+  "version": 2,
+  "dgSpecHash": "f6RDSNuWGDk=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\PC\\Downloads\\Bai1_ClinicAppointmentManager\\Bai1_ClinicAppointmentManager\\ClinicAppointmentManager.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://api.nuget.org/v3/index.json.\r\n  An error occurred while sending the request.\r\n  The underlying connection was closed: An unexpected error occurred on a send.\r\n  Authentication failed because the remote party has closed the transport stream.",
+      "projectPath": "C:\\Users\\PC\\Downloads\\Bai1_ClinicAppointmentManager\\Bai1_ClinicAppointmentManager\\ClinicAppointmentManager.csproj",
+      "filePath": "C:\\Users\\PC\\Downloads\\Bai1_ClinicAppointmentManager\\Bai1_ClinicAppointmentManager\\ClinicAppointmentManager.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://api.nuget.org/v3/index.json.\r\n  An error occurred while sending the request.\r\n  The underlying connection was closed: An unexpected error occurred on a send.\r\n  Authentication failed because the remote party has closed the transport stream.",
+      "projectPath": "C:\\Users\\PC\\Downloads\\Bai1_ClinicAppointmentManager\\Bai1_ClinicAppointmentManager\\ClinicAppointmentManager.csproj",
+      "filePath": "C:\\Users\\PC\\Downloads\\Bai1_ClinicAppointmentManager\\Bai1_ClinicAppointmentManager\\ClinicAppointmentManager.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://api.nuget.org/v3/index.json.\r\n  An error occurred while sending the request.\r\n  The underlying connection was closed: An unexpected error occurred on a send.\r\n  Authentication failed because the remote party has closed the transport stream.",
+      "projectPath": "C:\\Users\\PC\\Downloads\\Bai1_ClinicAppointmentManager\\Bai1_ClinicAppointmentManager\\ClinicAppointmentManager.csproj",
+      "filePath": "C:\\Users\\PC\\Downloads\\Bai1_ClinicAppointmentManager\\Bai1_ClinicAppointmentManager\\ClinicAppointmentManager.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://api.nuget.org/v3/index.json.\r\n  An error occurred while sending the request.\r\n  The underlying connection was closed: An unexpected error occurred on a send.\r\n  Authentication failed because the remote party has closed the transport stream.",
+      "projectPath": "C:\\Users\\PC\\Downloads\\Bai1_ClinicAppointmentManager\\Bai1_ClinicAppointmentManager\\ClinicAppointmentManager.csproj",
+      "filePath": "C:\\Users\\PC\\Downloads\\Bai1_ClinicAppointmentManager\\Bai1_ClinicAppointmentManager\\ClinicAppointmentManager.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "projectPath": "C:\\Users\\PC\\Downloads\\Bai1_ClinicAppointmentManager\\Bai1_ClinicAppointmentManager\\ClinicAppointmentManager.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\PC\\Downloads\\Bai1_ClinicAppointmentManager\\Bai1_ClinicAppointmentManager\\ClinicAppointmentManager.csproj",
+      "targetGraphs": []
+    }
+  ]
+}
